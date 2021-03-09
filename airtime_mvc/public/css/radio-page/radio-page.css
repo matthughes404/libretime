@@ -1,5 +1,5 @@
 html {
-    background: url("img/background-testing-3.jpg") no-repeat center center fixed;
+    background: url("img/limansk-radio-bg.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -58,14 +58,16 @@ span.login-img {
 #schedule_iframe, .tab_content {
     color: #fff;
     text-align: center;
-    width: 770px;
-    max-width: 770px;
-    margin: 0 auto 0px -380px;
+    width: 780px;
+    max-width: 780px;
+    height: 600px;
+    margin: 0 auto 0px -390px;
     padding: 10px;
     padding-left: 0px;
     padding-bottom: 140px !important;
     position: absolute;
-    left: 50%;
+    left: 36%;
+    top: 12%;
     /*	-webkit-transition-delay: 1s;
         transition-delay: 1s;*/
 }
@@ -192,7 +194,7 @@ input[type="submit"] {
     color: #fff;
     font-size: 18px;
     font-weight: 300;
-    background: #459B8F;
+    background: #1f4c35;
     width: 100%;
     max-width: 380px;
     padding: 18px 20px;
@@ -203,7 +205,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #409187;
+    background-color: #616b4c;
 }
 
 @media (max-width: 780px) {

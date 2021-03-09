@@ -14,7 +14,7 @@ body {
     right: 0px;
     bottom: 0px;
     height: 120px;
-    background: #fff;
+    background: #C4C797;
     display: flex;
 }
 
@@ -26,15 +26,15 @@ body {
 }
 
 .bottom_bar .cont_btn:hover {
-    background-color: #409187;
+    background-color: #616b4c;
 }
 
 .bottom_bar .play {
-    background: #459B8F url('img/play.png') no-repeat center center;
+    background: #616b4c url('img/play.png') no-repeat center center;
 }
 
 .bottom_bar .pause {
-    background: #459B8F url('img/pause.png') no-repeat center center;
+    background: #616b4c url('img/pause.png') no-repeat center center;
 }
 
 .on_air {

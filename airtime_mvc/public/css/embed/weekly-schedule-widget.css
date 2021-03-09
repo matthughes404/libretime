@@ -7,7 +7,7 @@ body {
     color: #fff;
     text-align: center;
     visibility: hidden;
-    max-width: 750px;
+    max-width: 900px;
     /*margin: 0 auto;*/
     padding: 10px;
     position: absolute;
@@ -24,11 +24,11 @@ body {
     list-style: none;
     padding-left: 0px;
     margin: 0px;
-    background: rgba(69, 155, 143, 0.8);
+    background: #616b4c;
 }
 
 .schedule .tabs li {
-    width: 103px;
+    width: 105px;
     height: 80px;
     display: inline-block;
     font-size: 14px;
@@ -43,15 +43,15 @@ body {
 }
 
 .schedule .tabs li.active {
-    background: #459B8F;
+    background: #504639;
 }
 
 .schedule .tabs li.active:hover {
-    background: #459B8F;
+    background: #504639;
 }
 
 .schedule .tabs li:hover {
-    background: rgba(69, 155, 143, 0.6)
+    background: #767d68;
 }
 
 .schedule_content {
